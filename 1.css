@@ -1,0 +1,222 @@
+*{margin:0;padding:0;}
+
+.menuphai li {
+    list-style: none;
+    padding: 15px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.menudoc a{
+    color: #999;
+    text-decoration: none;
+}
+
+li.li2:hover {
+    color: white;
+    background-color: #999999ba;
+}
+
+li.li1:hover {
+    color: white;
+}
+.menuphai.out{
+    right: 0;
+}
+a.fa.fa-bars {
+    position: fixed;
+    right: 0px;
+    color: white;
+    background: #0000005e;
+    padding: 15px;
+    font-size: 20px;
+    margin: 10px;
+    text-decoration: none;
+    z-index: 4;
+}
+
+b.fa.fa-close {
+    right: 0;
+    background-color: white;
+    padding: 15px;
+    font-size: 20px;
+    margin-left: 20px;
+    color: black;
+}
+b.fa.fa-close:hover{
+    background-color: #999999ba;
+}
+
+a.fa.fa-bars:hover {
+    background-color: black;
+}
+
+small {
+    padding-bottom: 130px;
+}
+
+.nen8 hr {
+    width: 100px;
+    margin: auto;
+    padding-bottom: 20px;
+}
+
+b.fa.fa-facebook.fa-3x {
+    padding-top: 30px;
+    padding: 20px;
+}
+
+.nen8 h4 {
+    font-weight: 600;
+    padding-top: 100px;
+}
+
+a.btn.btn-default.look {
+    border-radius: 0px;
+    margin-top: 10px;
+    font-size: 20px;
+    color: white;
+    background-color: #0000006b;
+}
+
+a.btn.btn-default.click {
+    border-radius: 0px;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+.nen6 h3 {
+    padding-top: 50px;
+}
+
+.nen6 {
+    background-color: #337ab7;
+    color: white;
+    height: 200px;
+}
+
+.nen5 a.btn.btn-default {
+    border-radius: 0px;
+    background: #00000038;
+    color: white;
+    font-size: 18px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.nen5 a.btn.btn-default:hover {
+    background-color: black;
+}
+
+.nen5 img.img-responsive {
+    margin-top: 30px;
+}
+
+.nen5 hr {
+    width: 100px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.nen5 h2 {
+    padding-top: 50px;
+}
+
+.nen4 h1 {
+    padding-top: 150px;
+    font-weight: 900;
+    font-size: 50px;
+}
+
+.nen3 a.btn.btn-default {
+    border-radius: 0px;
+}
+
+.nen3 h3 {
+    font-size: 20px;
+}
+
+b.fa.fa-cloud {
+    font-size: 60px;
+    border-radius: 50px;
+    padding: 15px;
+    color: #337ab7;
+    background: white;
+    margin-top: 20px;
+}
+
+.nen3 hr {
+    width: 120px;
+    margin: auto;
+}
+
+.nen3 h1 {
+    font-size: 30px;
+    padding-top: 30px;
+}
+
+.nen3 {
+    background: #337ab7;
+    color: white;
+    padding-bottom: 70px;
+}
+
+.nen2 {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.nen2.col-xs-12.col-sm-12.col-md-12.col-lg-12 {
+    padding-top: 70px;
+}
+
+.nen1 a.btn.btn-default {
+    border-radius: 0px;
+    background: #00000038;
+    color: white;
+    font-size: 18px;
+}
+
+.nen1 a.btn.btn-default:hover {
+    background: #000000cf;
+}
+
+.nen1{
+    background-image: url(images/bg.jpg) ;
+    HEIGHT: 700px;
+    background-size: cover;
+    width: 100%;
+}
+
+.anh1 {
+    padding-top: 220px;
+    overflow: inherit;
+}
+
+.nen1 h3 {
+    padding-bottom: 20px;
+}
+
+.nen1 h1 {
+    font-size: 65px;
+    font-weight: 700;
+}
+.nen4{
+    background: url(images/callout.jpg);
+    height: 400px;
+    color: white;
+    background-size: cover;
+}
+.nen5 img.img-responsive:hover {
+    opacity: 0.8;
+}
+.menuphai{
+    position: fixed;
+    background: black;
+    color: #999;
+    height: 100%;
+    right: -300px;
+    transition: 0.5s;
+    z-index: 4;
+}
+
